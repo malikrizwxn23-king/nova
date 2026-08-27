@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.pyo
+*.apk
+*.aab
+*.keystore
+build/
+.dist/
+.idea/
+.vscode/
+.DS_Store

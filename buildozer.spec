@@ -12,6 +12,7 @@ android.permissions = INTERNET,RECORD_AUDIO,CAMERA,READ_CONTACTS,POST_NOTIFICATI
 android.archs = arm64-v8a
 android.minapi = 23
 android.api = 34
+android.accept_sdk_license = True
 android.logcat_filters = *:S python:D
 
 [buildozer]
